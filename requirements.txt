@@ -3,3 +3,8 @@ matplotlib.pyplot
 seaborn
 numpy
 pandas
+prophet
+SARIMAX
+ARIMA
+LinearRegression
+Plotly
